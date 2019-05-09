@@ -1,3 +1,3 @@
 # moon.li
 
-_Website insanity._
+_Website insanity v1_
